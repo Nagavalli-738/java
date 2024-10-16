@@ -27,3 +27,9 @@ System.out.println(i);
 }
 }
 }
+output:
+Enter a starting positive integer:
+5 8
+Enter a ending positive integer:8
+The prime numbers in the range of 5 and 8 are:
+5
