@@ -17,3 +17,7 @@ System.out.println(num+"is odd integer");
 }
 }
 }
+output:
+Enter an integer to check whether it is even or odd
+9
+9is odd integer
