@@ -33,3 +33,12 @@ import java.util.Scanner;
         
     }
 }
+output:
+Enter marks of five subjects
+54
+68
+98
+76
+99
+Average of the student is  79.0
+Student passed with first class
