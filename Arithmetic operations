@@ -10,3 +10,9 @@ class main{
         System.out.println("a / b = " + (a/b));
     }
 }
+output:
+a + b = 31
+a - b = 17
+a * b = 168
+a % b = 3
+a / b = 3
