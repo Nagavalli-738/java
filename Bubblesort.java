@@ -29,3 +29,14 @@ System.out.println(arr[i]+" ");
 }
 }
 }
+output:
+Enter size of the array:
+5
+Enter5elements into the array
+47 38 18 24 28
+After sorting the elements in array are:
+18 
+24 
+28 
+38 
+47 
