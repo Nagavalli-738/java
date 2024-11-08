@@ -28,3 +28,8 @@ class Circlearea3
 		System.out.println("Area of 2nd circle is"+ob2.area());
 	}
 }
+output:
+Enter redius of two circles:
+4 8
+Area of 1st circle is50.285714285714285
+Area of 2nd circle is201.14285714285714
